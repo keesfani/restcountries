@@ -20,7 +20,7 @@ You can build and run the project using maven. The project uses Java 20.
 
 You can run the application using the following command:
 
-``mvn exec:java``
+``mvn clean install exec:java``
 
 or by creating a jar using the following command:
 
